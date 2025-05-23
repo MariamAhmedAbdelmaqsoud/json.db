@@ -1,5 +1,10 @@
 {
   "users": [
-    {}
+    { 
+      "id": "3a6a",
+      "name": "Mariam Ahmed",
+      "email": "amariamahmed01002865393@gmail.com",
+      "password": "123"
+    }
   ]
 }
